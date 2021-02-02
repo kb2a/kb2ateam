@@ -2,7 +2,7 @@
 # Chào mừng bạn đến với KB2A Team
 
 KB2A Team là một nhóm công nghệ được thành lập bởi 4 thành viên với mục đích mang lại nhiều tiện ích cho cộng đồng.
-+ K: http://facebook.com/khoakomlem
++ K: https://www.facebook.com/khoakomlem
 + B: https://www.facebook.com/binh27112004
 + A: https://www.facebook.com/TuanAnh.Dev
 + A: https://www.facebook.com/vhaelatuido
